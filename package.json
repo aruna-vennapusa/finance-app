@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Aruna",
-  "license": "MIT",
-  "scripts": {
+ "scripts": {
     "build:dev": "webpack",
     "build:prod": "webpack -p --env production",
     "dev-server": "webpack-dev-server",
